@@ -1,0 +1,1 @@
+ive sperated my original js file and the complied one into their respected folders
