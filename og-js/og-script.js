@@ -3,7 +3,7 @@ const stopButton = document.querySelector('[data-action="stop"]');
 const resetButton = document.querySelector('[data-action="reset"]');
 const minutes = document.querySelector('.minutes');
 const seconds = document.querySelector('.seconds');
-let timerTime = 00;
+let timerTime = 0;
 let isRunning = false;
 let interval;
 
